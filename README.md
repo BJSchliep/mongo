@@ -1,25 +1,19 @@
 # mongo# Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software was my beginner attempt in learning Mongodb. This program has a menu option that includes insert a new name, to delete a user, modify their age, find people who fit a certain query, and the option to leave. 
 
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
+I wanted to make this program to learn Mongodb and PyMongo. With Python being my strongest language I wanted to build on that skill. 
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2iYE-_OWQ_Y)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
-
-{Describe the structure of the database that you created.}
+Mongodb is a cloud database that is a noSQL 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
+VS Code
 PyMongo
 Python
 MongoDB
@@ -29,15 +23,16 @@ MongoDB
 - [How to Install Mongodb](https://www.youtube.com/watch?v=Ph1Z97X6xno)
 - [How to Install PyMongo](https://pymongo.readthedocs.io/en/stable/installation.html)
 
+- [PyMongo in 100 seconds](https://www.youtube.com/watch?v=-bt_y4Loofg)
 - [PyMongo Documenation](https://pymongo.readthedocs.io/en/stable/tutorial.html)
 - [W3School MongoDB](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
 - [Update data information](https://www.youtube.com/watch?v=eaOjrzutWV0)
+- [Query data information](https://www.youtube.com/watch?v=q37X1zgcpEI)
 
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- I would use Tinker to be able to make a pop-up window that would improve the UI for users.
+- I would find more abilities of Mongodb to inscrease my skills
